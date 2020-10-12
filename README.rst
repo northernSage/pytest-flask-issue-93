@@ -1,5 +1,3 @@
-# pytest-flask-issue-93
-
 A reproducible example for `issue #93`_
 
 To run, create a virtual env and activate it
