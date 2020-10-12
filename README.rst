@@ -2,21 +2,21 @@ A reproducible example for `issue #93`_
 
 To run, create a virtual env and activate it
 
-    .. code-block::
+.. code-block::
 
-        python -m venv venv && source venv/bin/activate
+    python -m venv venv && source venv/bin/activate
 
-Installd dependencies
+Install dependencies
 
-    .. code-block::
+.. code-block::
 
-        pip istall -r requirements.txt
+    pip istall -r requirements.txt
 
 Run tests
 
-    .. code-block::
+.. code-block::
 
-        pytest
+    pytest
 
 
 .. _issue #93: https://github.com/pytest-dev/pytest-flask/issues/93
